@@ -16,7 +16,7 @@ local Status = Instance.new("TextLabel")
 
 PuppyWareBootstrapper.Name = "PuppyWareBootstrapper"
 
-PuppyWareBootstrapper.Parent = gethuio()
+PuppyWareBootstrapper.Parent = gethui()
 
 Main.Name = "Main"
 Main.Parent = PuppyWareBootstrapper
