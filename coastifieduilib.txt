@@ -1,7 +1,7 @@
 local Exploit = (syn and "Synapse" or secure_load and "Sentinel" or pebc_execute and "ProtoSmasher")
 local PuppyWare = {}
 repeat wait() until game:IsLoaded()
-
+--сввфыв
 local TweenService = game:GetService("TweenService")
 local HttpService = game:GetService("HttpService")
 local EncryptedCheck = HttpService:GenerateGUID(false)
